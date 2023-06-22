@@ -63,6 +63,7 @@ const Chat = () => {
           background: "#1a1a1a",
           cursor: "pointer",
           transition: "border-color 0.25s",
+          color:"white"
         }}
         onClick={() => toggleBot((prev) => !prev)}
       >

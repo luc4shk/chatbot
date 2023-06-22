@@ -44,55 +44,55 @@ export default function Planes() {
       }}>
         <thead>
           <tr >
-            <th style={{ border:"1px solid black" }}></th>
-            <th style={{ border:"1px solid black" }}>Bronze</th>
-            <th style={{ border:"1px solid black" }}>Silver</th>
-            <th style={{ border:"1px solid black" }}>Gold</th>
-            <th style={{ border:"1px solid black" }}>Platinum Anual</th>
+            <th ></th>
+            <th >Bronze</th>
+            <th >Silver</th>
+            <th >Gold</th>
+            <th >Platinum Anual</th>
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <td style={{ border:"1px solid black" }}>Asesoramiento semi-personalizado</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}></td>
+          <tr >
+            <td >Asesoramiento semi-personalizado</td>
+            <td >✔️</td>
+            <td >✔️</td>
+            <td ></td>
+            <td ></td>
           </tr>
           <tr>
-            <td style={{ border:"1px solid black" }}>Asesoramiento personalizado</td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
+            <td >Asesoramiento personalizado</td>
+            <td ></td>
+            <td ></td>
+            <td >✔️</td>
+            <td >✔️</td>
           </tr>
           <tr>
-            <td style={{ border:"1px solid black" }}>Acceso completo a todas las instalaciones y áreas</td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
+            <td >Acceso completo a todas las instalaciones y áreas</td>
+            <td ></td>
+            <td ></td>
+            <td >✔️</td>
+            <td >✔️</td>
           </tr>
           <tr>
-            <td style={{ border:"1px solid black" }}>Acceso a áreas, y equipos esenciales</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}></td>
+            <td >Acceso a áreas, y equipos esenciales</td>
+            <td >✔️</td>
+            <td >✔️</td>
+            <td ></td>
+            <td ></td>
           </tr>
           <tr>
-            <td style={{ border:"1px solid black" }}>Acceso a clases grupales y servicios exclusivos</td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
+            <td >Acceso a clases grupales y servicios exclusivos</td>
+            <td ></td>
+            <td >✔️</td>
+            <td >✔️</td>
+            <td >✔️</td>
           </tr>
           <tr>
-            <td style={{ border:"1px solid black" }}>Ahorro de $198.900 anualmente</td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}></td>
-            <td style={{ border:"1px solid black" }}>✔️</td>
+            <td >Ahorro de $198.900 anualmente</td>
+            <td ></td>
+            <td ></td>
+            <td ></td>
+            <td >✔️</td>
           </tr>
         </tbody>
       </table>

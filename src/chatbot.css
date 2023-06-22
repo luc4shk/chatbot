@@ -1,5 +1,7 @@
 .react-chatbot-kit-chat-container {
     width: 400px;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    
 }
 
 
@@ -8,8 +10,9 @@
     width: 1000px;
 }
 
-/* .react-chatbot-kit-chat-btn-send {
-    border: 0;
-} */
 
 
+th,td{
+    border: 1px solid black;
+    text-align: center;
+}

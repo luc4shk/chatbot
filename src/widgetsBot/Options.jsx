@@ -19,6 +19,7 @@ const Options = (props) => {
           return (
             <div
             style={{
+              textAlign:"center",
               padding: "8px 15px",
               border: "1px solid #2898ec",
               borderRadius: "25px",

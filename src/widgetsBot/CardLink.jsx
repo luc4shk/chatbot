@@ -3,7 +3,9 @@ import React from 'react'
 export default function CardLink(props) {
   return (
      <a href={props.link} style={{
-        color:"white"
+        color:"white",
+        textAlign:"center",
+        textDecoration:"none"
     }}>
       <h1 style={{
         backgroundColor:"#1877F2",
